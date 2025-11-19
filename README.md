@@ -122,5 +122,5 @@ The API will be live at `http://127.0.0.1:8000/`.
 
 This project is the capstone for the ProDev Backend Program.
 
-* **Author:** [Your Name]
+* **Author:** Robel Zeradawit
 * **Version:** 1.0.0
